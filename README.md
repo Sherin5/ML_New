@@ -31,5 +31,7 @@ To deactivate the virtual environment
 deactivate
 ```
 
-
+```
+pip install -r requirements.txt
+```
 
