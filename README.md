@@ -1,4 +1,4 @@
-# Macjine Learning Project
+# Machine Learning Project
 
 ## Software Requirements:
 
