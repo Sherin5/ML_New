@@ -14,8 +14,8 @@ class HousingException(Exception):
         error_message = f'Error occured in script [{file_name}] atline number [{line_number}] error message: [{error_message}] '
         return error_message
     
-    def __str__(self) -> str:
+    def __str__(self) :
         return self.error_message
     
-    def __repr__(self) -> str:
+    def __repr__(self) :
         return HousingException.__name__.str()

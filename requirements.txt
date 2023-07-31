@@ -4,3 +4,4 @@ flask
 sklearn
 gunicorn
 logging
+pyYAML
